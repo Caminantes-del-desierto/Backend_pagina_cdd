@@ -1,4 +1,4 @@
-# GitHub Caminanttes del desierto ♥️ Django
+# Caminanttes del desierto  Django
 
 
 To run this application:
